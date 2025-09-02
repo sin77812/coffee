@@ -69,19 +69,19 @@ hr.divider {
 .hero-overlay p { color: var(--ink-weak); max-width: 68ch; margin: 8px auto 0; }
 
 /* Hero text stroke for legibility over media */
-.hero-overlay h1,
-.hero-overlay p {
-  -webkit-text-stroke: 0.6px #000;
-  text-shadow:
-    0 1px 0 #000,
-    0 -1px 0 #000,
-    1px 0 0 #000,
-    -1px 0 0 #000,
-    1px 1px 0 #000,
-    -1px 1px 0 #000,
-    1px -1px 0 #000,
-    -1px -1px 0 #000;
+/* Glass container for hero copy */
+.hero-glass {
+  display: inline-block;
+  padding: 16px 24px;
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: var(--radius);
+  max-width: min(80ch, 92vw);
 }
+.hero-glass h1 { margin: 0; }
+.hero-glass p { margin: 8px 0 0; }
 
 /* Ensure hero media covers full viewport height */
 .hero > video,
