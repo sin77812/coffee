@@ -58,6 +58,39 @@ hr.divider {
 [data-reveal].is-visible { opacity: 1; transform: translateY(0); }
 
 /* Hero */
-.hero { padding: 0; border-bottom: 1px solid var(--line); position: relative; }
+.hero { padding: 0; border-bottom: 1px solid var(--line); position: relative; min-height: 100vh; }
+@supports (height: 100svh) {
+  .hero { min-height: 100svh; }
+}
+@supports (height: 100dvh) {
+  .hero { min-height: 100dvh; }
+}
 .hero-overlay { position: absolute; inset: 0; display: grid; place-items: center; text-align: center; }
 .hero-overlay p { color: var(--ink-weak); max-width: 68ch; margin: 8px auto 0; }
+
+/* Hero text stroke for legibility over media */
+.hero-overlay h1,
+.hero-overlay p {
+  -webkit-text-stroke: 0.6px #000;
+  text-shadow:
+    0 1px 0 #000,
+    0 -1px 0 #000,
+    1px 0 0 #000,
+    -1px 0 0 #000,
+    1px 1px 0 #000,
+    -1px 1px 0 #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;
+}
+
+/* Ensure hero media covers full viewport height */
+.hero > video,
+.hero > img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  background: #000;
+}
