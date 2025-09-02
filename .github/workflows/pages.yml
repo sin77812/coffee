@@ -14,7 +14,9 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  deploy:
+  deploy_pages_api:
+    name: Deploy via Pages API
+    continue-on-error: true
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -33,3 +35,23 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  deploy_gh_branch:
+    name: Fallback: Publish to gh-pages
+    needs: deploy_pages_api
+    if: always() && (needs.deploy_pages_api.result == 'failure' || needs.deploy_pages_api.result == 'cancelled')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Prepare static artifacts
+        run: |
+          touch .nojekyll
+      - name: Publish to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: gh-pages
