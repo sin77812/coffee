@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#ffffff"/>
+  <rect x="40" y="40" width="1120" height="820" fill="#f4f4f4" stroke="#0A0A0A" stroke-width="2"/>
+  <g fill="#0A0A0A">
+    <rect x="380" y="300" width="440" height="220" rx="8"/>
+    <rect x="420" y="540" width="360" height="20"/>
+  </g>
+  <text x="50%" y="140" font-family="Inter, Arial, sans-serif" font-size="64" text-anchor="middle" fill="#0A0A0A">COFFEE — 03</text>
+</svg>

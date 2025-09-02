@@ -1,0 +1,45 @@
+:root {
+  --bg: #0A0A0A;
+  --ink: #FFFFFF;
+  --ink-weak: #BDBDBD;
+  --line: #2A2A2A;
+  --focus: #FFFFFF;
+
+  --container: 1200px;
+  --gutter: 32px;
+  --radius: 12px;
+
+  --fs-14: 0.875rem;
+  --fs-16: 1rem;
+  --fs-18: 1.125rem;
+  --fs-24: 1.5rem;
+  --fs-36: 2.25rem;
+  --fs-48: 3rem;
+  --fs-72: 4.5rem;
+
+  /* Fonts */
+  --font-display: "Playfair Display", "Cormorant Garamond", Georgia, serif;
+  --font-body: Inter, Pretendard, system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans KR", Arial, sans-serif;
+
+  /* Style Tile explicit sizes */
+  --fs-h1: 72px;
+  --fs-h2: 36px;
+  --fs-body: 16px;
+  --fs-caption: 14px;
+
+  /* Spacing */
+  --space-16: 16px;
+  --space-24: 24px;
+  --space-32: 32px;
+  --space-48: 48px;
+  --space-72: 72px;
+  --space-96: 96px;
+  --space-128: 128px;
+}
+
+@media (max-width: 768px) {
+  :root {
+    --space-128: 72px;
+    --gutter: 24px;
+  }
+}

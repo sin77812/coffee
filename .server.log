@@ -1,0 +1,408 @@
+::1 - - [02/Sep/2025 18:40:39] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:40:39] "GET /assets/css/tokens.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:40:39] "GET /assets/css/base.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:40:39] "GET /assets/css/components.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:40:39] "GET /assets/js/main.js HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:40:39] code 404, message File not found
+::1 - - [02/Sep/2025 18:40:39] "GET /favicon.ico HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 18:42:05] "GET /about.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:42:05] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:42:19] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:42:19] "GET /assets/icons/mark.svg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:42:19] "GET /assets/icons/star.svg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:42:57] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:42:57] "GET /assets/css/tokens.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:42:57] "GET /assets/css/base.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:42:57] "GET /assets/css/components.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:42:57] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:43:21] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:43:21] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:43:21] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:43:21] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:07] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:46:07] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:07] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:07] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:07] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:08] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:34] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:34] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:34] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:34] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:34] "GET /assets/icons/mark.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:34] "GET /assets/icons/star.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:46:41] "GET /about.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:56:55] "GET /about.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:56:55] "GET /assets/css/tokens.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:56:55] "GET /assets/css/base.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:56:55] "GET /assets/css/components.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:56:55] "GET /assets/js/main.js HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:56:59] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:59:12] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 18:59:12] "GET /assets/css/base.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:59:12] "GET /assets/css/tokens.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:59:12] "GET /assets/css/components.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 18:59:12] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:01:44] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:01:44] "GET /assets/css/base.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:01:44] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:01:44] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:01:44] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:04:33] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:04:34] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:04:34] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:04:34] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:04:34] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:06:38] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:06:38] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:06:38] "GET /assets/css/base.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:06:38] "GET /assets/css/components.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:06:38] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:06:43] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:06:43] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:06:43] "GET /assets/icons/star.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:06:43] "GET /assets/icons/mark.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:07:34] "GET /about.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:07:34] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:07:34] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:07:34] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:08:38] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:08:38] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:08:38] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:08:38] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:08:38] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:43:29] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:43:29] code 404, message File not found
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%ED%95%98%EC%9A%B0%EC%8A%A4%EB%B8%94%EB%A0%8C%EB%93%9C%EC%9B%90%EB%91%90.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%88%9C%EA%B0%84.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%EC%BB%B5%EA%B3%BC%EC%84%9C%EB%B8%8C%EC%86%8C%EC%84%9C%EC%9D%98%EB%AF%B8%EB%8B%88%EB%A9%80%EC%A0%9C%ED%92%88%EC%BB%B7.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%EC%BB%A4%ED%94%BC%EB%A1%9C%EC%8A%A4%ED%84%B0.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%ED%8B%B0%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] code 404, message File not found
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%ED%85%8C%EC%9D%B4%EB%B8%94.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%EB%8F%84%EC%8B%9C%EB%8A%90%EB%82%8C%EC%B9%B4%ED%8E%98%EC%82%AC%EC%A7%84.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%EC%9E%AC%EB%A3%8C%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%9B%90%EB%91%90.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/images/%ED%9E%88%EC%96%B4%EB%A1%9C%EB%8F%99%EC%98%81%EC%83%81.mp4 HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:43:29] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:45:08] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%ED%94%8C%EB%9E%AB%ED%99%94%EC%9D%B4%ED%8A%B8.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EC%B9%B4%ED%91%B8%EC%B9%98%EB%85%B8.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/icons/star.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/icons/mark.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EB%B0%94%EC%8A%A4%ED%81%AC%20%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EB%8B%A4%EC%A7%88%EB%A7%81(%EB%93%9C%EB%9D%BC%EC%9D%B4%20%EB%A6%AC%ED%94%84:%ED%8B%B0%ED%8C%9F).jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EB%A0%88%EB%AA%AC%20%ED%8C%8C%EC%9A%B4%EB%93%9C.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:45:08] "GET /assets/images/%EB%8B%A4%ED%81%AC%20%EC%B4%88%EC%BD%94%20%EC%BF%A0%ED%82%A4.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:46:07] "GET /about.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:46:07] code 404, message File not found
+::1 - - [02/Sep/2025 19:46:07] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%ED%85%8C%EC%9D%B4%EB%B8%94.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 19:46:07] "GET /assets/images/%EC%83%9D%EB%91%90%20%EC%83%98%ED%94%8C.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:46:07] "GET /assets/images/%EC%98%A8%EB%8F%84-%20%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%83%E1%85%A9%E1%84%80%E1%85%A8%C2%B7%E1%84%89%E1%85%B3%E1%84%90%E1%85%B5%E1%86%B7%20%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:46:07] "GET /assets/images/%EC%BB%A4%ED%94%BC%EB%A1%9C%EC%8A%A4%ED%84%B0.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:46:07] "GET /assets/images/%EC%9E%AC%EB%A3%8C%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%9B%90%EB%91%90.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:46:07] "GET /assets/images/%EB%8B%A8%EC%83%89%20%ED%9D%91%EB%B0%B1%20%EC%9D%B8%EB%AC%BC%20%ED%94%84%EB%A1%9C%ED%95%84.jpeg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:47:56] "GET /about.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:56] code 404, message File not found
+::1 - - [02/Sep/2025 19:47:56] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%ED%85%8C%EC%9D%B4%EB%B8%94.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 19:47:56] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:56] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%88%9C%EA%B0%84.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EC%B9%B4%ED%91%B8%EC%B9%98%EB%85%B8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%ED%94%8C%EB%9E%AB%ED%99%94%EC%9D%B4%ED%8A%B8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EB%8B%A4%EC%A7%88%EB%A7%81(%EB%93%9C%EB%9D%BC%EC%9D%B4%20%EB%A6%AC%ED%94%84:%ED%8B%B0%ED%8C%9F).jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%ED%8B%B0%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EB%B0%94%EC%8A%A4%ED%81%AC%20%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EB%A0%88%EB%AA%AC%20%ED%8C%8C%EC%9A%B4%EB%93%9C.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%EB%8B%A4%ED%81%AC%20%EC%B4%88%EC%BD%94%20%EC%BF%A0%ED%82%A4.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:47:59] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:52:20] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] code 404, message File not found
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%ED%95%98%EC%9A%B0%EC%8A%A4%EB%B8%94%EB%A0%8C%EB%93%9C%EC%9B%90%EB%91%90.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%88%9C%EA%B0%84.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%EC%BB%B5%EA%B3%BC%EC%84%9C%EB%B8%8C%EC%86%8C%EC%84%9C%EC%9D%98%EB%AF%B8%EB%8B%88%EB%A9%80%EC%A0%9C%ED%92%88%EC%BB%B7.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%EC%BB%A4%ED%94%BC%EB%A1%9C%EC%8A%A4%ED%84%B0.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] code 404, message File not found
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%ED%85%8C%EC%9D%B4%EB%B8%94.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%ED%8B%B0%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%EB%8F%84%EC%8B%9C%EB%8A%90%EB%82%8C%EC%B9%B4%ED%8E%98%EC%82%AC%EC%A7%84.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%EC%9E%AC%EB%A3%8C%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%9B%90%EB%91%90.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 19:52:20] "GET /assets/images/%ED%9E%88%EC%96%B4%EB%A1%9C%EB%8F%99%EC%98%81%EC%83%81.mp4 HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:37] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%BB%A4%ED%94%BC%EC%9D%B4%EB%AF%B8%EC%A7%80.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EC%9B%90%EB%91%90%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%EB%A9%94%EB%89%B4%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%A1%9C%EC%8A%A4%ED%8C%85.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EB%A7%90%EC%B0%A8%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%20%ED%85%8C%EC%9D%B4%EB%B8%94.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EC%B9%B4%ED%8E%98%20%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%ED%99%88.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%EA%B3%84%EB%8B%A8.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EC%B9%B4%ED%8E%98%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%EC%86%8C%ED%8C%8C.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:37] "GET /assets/images/%ED%9E%88%EC%96%B4%EB%A1%9C%EB%8F%99%EC%98%81%EC%83%81.mp4 HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/icons/mark.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%88%9C%EA%B0%84.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/icons/star.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EC%B9%B4%ED%91%B8%EC%B9%98%EB%85%B8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%ED%94%8C%EB%9E%AB%ED%99%94%EC%9D%B4%ED%8A%B8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EB%8B%A4%EC%A7%88%EB%A7%81(%EB%93%9C%EB%9D%BC%EC%9D%B4%20%EB%A6%AC%ED%94%84:%ED%8B%B0%ED%8C%9F).jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%ED%8B%B0%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EB%A0%88%EB%AA%AC%20%ED%8C%8C%EC%9A%B4%EB%93%9C.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EB%8B%A4%ED%81%AC%20%EC%B4%88%EC%BD%94%20%EC%BF%A0%ED%82%A4.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%EB%B0%94%EC%8A%A4%ED%81%AC%20%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:01:56] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:06:47] "GET /about.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:06:47] code 404, message File not found
+::1 - - [02/Sep/2025 20:06:47] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%ED%85%8C%EC%9D%B4%EB%B8%94.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:06:47] "GET /assets/images/%EC%9E%AC%EB%A3%8C%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%9B%90%EB%91%90.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:06:47] "GET /assets/images/%EC%98%A8%EB%8F%84-%20%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%83%E1%85%A9%E1%84%80%E1%85%A8%C2%B7%E1%84%89%E1%85%B3%E1%84%90%E1%85%B5%E1%86%B7%20%E1%84%8B%E1%85%A9%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%80%E1%85%AA%E1%86%AB%E1%84%85%E1%85%B5.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:06:47] "GET /assets/images/%EC%83%9D%EB%91%90%20%EC%83%98%ED%94%8C.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:06:47] "GET /assets/images/%EC%BB%A4%ED%94%BC%EB%A1%9C%EC%8A%A4%ED%84%B0.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:06:47] "GET /assets/images/%EB%8B%A8%EC%83%89%20%ED%9D%91%EB%B0%B1%20%EC%9D%B8%EB%AC%BC%20%ED%94%84%EB%A1%9C%ED%95%84.jpeg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:00] "GET /about.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:00] code 404, message File not found
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%ED%85%8C%EC%9D%B4%EB%B8%94.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:17:00] code 404, message File not found
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%B8%94%EB%A0%8C%EB%94%A9.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:00] code 404, message File not found
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/images/%EC%83%9D%EB%91%90%20%EC%83%98%ED%94%8C.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/images/%EC%9B%90%EB%91%90%20%ED%92%88%EC%A7%88%EC%B2%B4%ED%81%AC.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%97%B0%EA%B5%AC.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:00] code 404, message File not found
+::1 - - [02/Sep/2025 20:17:00] "GET /assets/images/%EB%8B%A8%EC%83%89%20%ED%9D%91%EB%B0%B1%20%EC%9D%B8%EB%AC%BC%20%ED%94%84%EB%A1%9C%ED%95%84.jpeg HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:17:06] "GET / HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%A1%9C%EC%8A%A4%ED%8C%85.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%EB%A9%94%EB%89%B4%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EC%9B%90%EB%91%90%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%BB%A4%ED%94%BC%EC%9D%B4%EB%AF%B8%EC%A7%80.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EB%A7%90%EC%B0%A8%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%20%ED%85%8C%EC%9D%B4%EB%B8%94.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EC%B9%B4%ED%8E%98%20%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%ED%99%88.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%EA%B3%84%EB%8B%A8.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EC%B9%B4%ED%8E%98%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%EC%86%8C%ED%8C%8C.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:06] "GET /assets/images/%ED%9E%88%EC%96%B4%EB%A1%9C%EB%8F%99%EC%98%81%EC%83%81.mp4 HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:13] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/icons/mark.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/images/%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/images/%EC%B9%B4%ED%91%B8%EC%B9%98%EB%85%B8.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/images/%ED%94%8C%EB%9E%AB%ED%99%94%EC%9D%B4%ED%8A%B8.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/images/Darjeeling.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/icons/star.svg HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/images/%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:13] "GET /assets/images/%EC%9E%90%EC%8A%A4%EB%AF%BC.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:13] code 404, message File not found
+::1 - - [02/Sep/2025 20:17:14] "GET /assets/images/%EB%B0%94%EC%8A%A4%ED%81%AC%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B4%ED%81%AC.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:17:14] code 404, message File not found
+::1 - - [02/Sep/2025 20:17:14] "GET /assets/images/%EB%A0%88%EB%AA%AC%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B4%ED%81%AC.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:17:14] "GET /assets/images/%EC%B4%88%EC%BD%94%EC%BF%A0%ED%82%A4.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:17:14] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:18:44] "GET /about.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:18:44] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%20%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:18:44] code 404, message File not found
+::1 - - [02/Sep/2025 20:18:44] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%B8%94%EB%A0%8C%EB%94%A9.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:18:44] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%97%B0%EA%B5%AC.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:18:44] "GET /assets/images/%EC%9B%90%EB%91%90%20%ED%92%88%EC%A7%88%EC%B2%B4%ED%81%AC.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%BB%A4%ED%94%BC%EC%9D%B4%EB%AF%B8%EC%A7%80.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EC%BD%9C%EB%93%9C%EB%B8%8C%EB%A3%A8.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EC%97%90%EC%8A%A4%ED%94%84%EB%A0%88%EC%86%8C.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EC%B9%B4%ED%91%B8%EC%B9%98%EB%85%B8.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B4%EB%85%B8.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%ED%94%8C%EB%9E%AB%ED%99%94%EC%9D%B4%ED%8A%B8.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/Darjeeling.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EC%9E%90%EC%8A%A4%EB%AF%BC.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EC%96%BC%EA%B7%B8%EB%A0%88%EC%9D%B4.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:14] code 404, message File not found
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EB%B0%94%EC%8A%A4%ED%81%AC%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B5.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:21:14] code 404, message File not found
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EB%A0%88%EB%AA%AC%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B5.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:21:14] "GET /assets/images/%EC%B4%88%EC%BD%94%EC%BF%A0%ED%82%A4.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:20] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:20] code 404, message File not found
+::1 - - [02/Sep/2025 20:21:20] "GET /assets/images/%EB%B0%94%EC%8A%A4%ED%81%AC%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B5.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:21:20] code 404, message File not found
+::1 - - [02/Sep/2025 20:21:20] "GET /assets/images/%EB%A0%88%EB%AA%AC%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B5.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:21:37] "GET /about.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:21:37] "GET /assets/images/%EC%B9%B4%ED%8E%98%EC%86%8C%EA%B0%9C%ED%9E%88%EB%A1%9C%EC%9D%B4%EB%AF%B8%EC%A7%80.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:21:37] code 404, message File not found
+::1 - - [02/Sep/2025 20:21:37] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%B8%94%EB%A0%8C%EB%94%A9.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:21:37] "GET /assets/images/%EC%9B%90%EB%91%90%20%ED%81%B4%EB%A1%9C%EC%A6%88%EC%97%85.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:37] "GET /assets/images/%EB%B8%94%EB%A0%8C%EB%94%A9%20%E1%84%90%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%87%E1%85%B3%E1%86%AF.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:37] "GET /assets/images/%EC%9B%90%EB%91%90%20%ED%92%88%EC%A7%88%EC%B2%B4%ED%81%AC.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:37] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%97%B0%EA%B5%AC.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:21:37] "GET /assets/images/%EC%B9%B4%ED%8E%98%20%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4%20%ED%99%88.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:23:36] "GET /about.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:36] "GET /assets/images/about-hero.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:36] "GET /assets/images/beans-closeup.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:36] "GET /assets/images/blending-table.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:36] code 404, message File not found
+::1 - - [02/Sep/2025 20:23:36] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%B8%94%EB%A0%8C%EB%94%A9.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:23:36] code 404, message File not found
+::1 - - [02/Sep/2025 20:23:36] "GET /assets/images/%EC%9B%90%EB%91%90%20%ED%92%88%EC%A7%88%EC%B2%B4%ED%81%AC.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:23:36] code 404, message File not found
+::1 - - [02/Sep/2025 20:23:36] "GET /assets/images/%EC%9B%90%EB%91%90%20%EB%A1%9C%EC%8A%A4%ED%8C%85%EC%97%B0%EA%B5%AC.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:23:36] "GET /assets/images/interior-home.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:46] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/signature-hand-drip.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/americano.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/flat-white.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/cappuccino.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/espresso.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/cold-brew.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/darjeeling.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/earl-grey.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/jasmine.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] code 404, message File not found
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/basque-cheesecake.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:23:47] code 404, message File not found
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/dark-choco-cookie.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:23:47] code 404, message File not found
+::1 - - [02/Sep/2025 20:23:47] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:24:29] "GET / HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/images/interior-menu-closeup.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/images/matcha-closeup.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/images/interior-stairs.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/css/base.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/css/components.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/images/beans-roasting.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/images/interior-sofa.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:24:29] "GET /assets/images/hero.mp4 HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:25:11] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:25:11] code 404, message File not found
+::1 - - [02/Sep/2025 20:25:11] "GET /assets/images/basque-cheesecake.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:25:11] code 404, message File not found
+::1 - - [02/Sep/2025 20:25:11] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:25:11] "GET /assets/css/tokens.css HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:25:11] "GET /assets/images/cold-brew.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:25:11] code 404, message File not found
+::1 - - [02/Sep/2025 20:25:11] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:25:17] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:25:17] code 404, message File not found
+::1 - - [02/Sep/2025 20:25:17] "GET /assets/images/basque-cheesecake.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:25:17] code 404, message File not found
+::1 - - [02/Sep/2025 20:25:17] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:25:17] code 404, message File not found
+::1 - - [02/Sep/2025 20:25:17] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:35] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/cold-brew.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/flat-white.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/earl-grey.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/jasmine.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/cappuccino.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/darjeeling.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/basque-cheesecake.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:35] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/dark-choco-cookie.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:35] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:35] "GET /assets/js/main.js HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:37] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:26:37] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:37] "GET /assets/images/basque-cheesecake.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:37] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:37] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:37] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:37] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:55] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/css/components.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/css/base.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/css/tokens.css HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/icons/mark.svg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/signature-hand-drip.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/icons/star.svg HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/espresso.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/americano.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/cappuccino.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/flat-white.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/cold-brew.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/darjeeling.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/earl-grey.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/jasmine.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/basque-cheesecake.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:55] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/dark-choco-cookie.png HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/js/main.js HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:26:55] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:55] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:26:59] code 404, message File not found
+::1 - - [02/Sep/2025 20:26:59] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:28:40] "GET /menu.html HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:28:40] code 404, message File not found
+::1 - - [02/Sep/2025 20:28:40] code 404, message File not found
+::1 - - [02/Sep/2025 20:28:40] "GET /assets/images/basque-cheesecake.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:28:40] "GET /assets/images/lemon-pound.png HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:28:40] "GET /assets/images/cold-brew.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:28:40] code 404, message File not found
+::1 - - [02/Sep/2025 20:28:40] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:29:19] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:29:19] code 404, message File not found
+::1 - - [02/Sep/2025 20:29:19] "GET /assets/images/%EB%A0%88%EB%AA%AC%ED%8C%8C%EC%9A%B4%EB%93%9C%EC%BC%80%EC%9D%B5.png?v=2 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:29:19] code 404, message File not found
+::1 - - [02/Sep/2025 20:29:19] "GET /assets/images/%EB%B0%94%EC%8A%A4%ED%81%AC%EC%B9%98%EC%A6%88%EC%BC%80%EC%9D%B5.png?v=2 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:29:19] "GET /assets/images/darjeeling.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:29:19] "GET /assets/images/jasmine.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:29:19] "GET /assets/images/earl-grey.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:29:19] "GET /assets/images/dark-choco-cookie.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:29:19] code 404, message File not found
+::1 - - [02/Sep/2025 20:29:19] "GET /assets/images/%ED%95%B8%EB%93%9C%EB%93%9C%EB%A6%BD%EC%B6%94%EC%B6%9C%EC%98%81%EC%83%81.mp4 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:29:54] code 404, message File not found
+::1 - - [02/Sep/2025 20:29:54] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:31:42] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:31:42] code 404, message File not found
+::1 - - [02/Sep/2025 20:31:42] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/signature-hand-drip.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/americano.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/flat-white.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/cappuccino.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/espresso.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/cold-brew.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:31:42] code 404, message File not found
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/basque-cheesecake.png?v=3 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:31:42] code 404, message File not found
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/lemon-pound.png?v=3 HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/dark-choco-cookie.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:31:42] "GET /assets/images/blending.mp4 HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:33:16] "GET /menu.html HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:33:16] code 404, message File not found
+::1 - - [02/Sep/2025 20:33:16] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 -
+::1 - - [02/Sep/2025 20:33:16] "GET /assets/images/lemon.png?v=4 HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:33:16] "GET /assets/images/cheese.png?v=4 HTTP/1.1" 200 -
+::1 - - [02/Sep/2025 20:33:16] "GET /assets/images/cold-brew.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:33:16] "GET /assets/images/darjeeling.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:33:16] "GET /assets/images/earl-grey.png HTTP/1.1" 304 -
+::1 - - [02/Sep/2025 20:33:16] "GET /assets/images/jasmine.png HTTP/1.1" 304 -
