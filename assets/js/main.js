@@ -66,3 +66,36 @@
     });
   });
 })();
+
+// Lazy-load videos (hero and others)
+(() => {
+  const vids = document.querySelectorAll('video[data-src]');
+  if (!vids.length) return;
+
+  const loadVideo = (v) => {
+    if (v.dataset.loaded) return;
+    v.src = v.dataset.src;
+    v.removeAttribute('data-src');
+    v.dataset.loaded = 'true';
+    // prefer auto preload after reveal
+    v.preload = 'auto';
+    // ensure muted/inline for autoplay on mobile
+    v.muted = true;
+    v.playsInline = true;
+    v.addEventListener('loadeddata', () => { v.play().catch(() => {}); }, { once: true });
+  };
+
+  if (!('IntersectionObserver' in window)) {
+    vids.forEach(loadVideo);
+    return;
+  }
+  const io = new IntersectionObserver((entries) => {
+    for (const entry of entries) {
+      if (entry.isIntersecting) {
+        loadVideo(entry.target);
+        io.unobserve(entry.target);
+      }
+    }
+  }, { threshold: 0.1 });
+  vids.forEach(v => io.observe(v));
+})();
